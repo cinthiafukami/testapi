@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
-from google.colab import auth
-from google.cloud import storage
+#from google.colab import auth
+#from google.cloud import storage
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
 from datetime import datetime
